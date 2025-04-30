@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: spacegray
 title: "Yannis Ntekas"
 ---
 
