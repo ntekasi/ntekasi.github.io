@@ -12,6 +12,7 @@ Spatial RNA-seq · Host-Microbiome · Non-coding RNA
 I am interested in spatial transcriptomic technologies that capture molecules typically missed by standard methods, including microbial and non-polyadenylated RNAs. My work focuses on the gut and reproductive tissue microenvironments, combining single-cell tools, RNA velocity, and host-microbe integration.
 
 ---
+**Home** | [CV](/cv/) | [Publications](/publications/) | [Thoughts](/thoughts/)
 
 ## 🔗 Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
