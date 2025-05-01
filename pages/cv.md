@@ -1,9 +1,11 @@
 ---
 layout: brutalist
-title: CV
+title: "CV"
 permalink: /cv/
 ---
 
-# CV
+# Curriculum Vitae
 
-[Download my CV (PDF)](/CV.pdf)
+<iframe src="/CV.pdf" width="100%" height="800px" style="border: none;">
+  This browser does not support PDFs. Please <a href="/CV.pdf">download the PDF</a> instead.
+</iframe>
