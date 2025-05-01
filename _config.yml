@@ -3,7 +3,6 @@ title: "Yannis Ntekas"
 description: "Spatial RNA-seq | Host-Microbiome | Non-coding RNA"
 baseurl: "" # leave blank for user.github.io
 url: "https://ntekasi.github.io" # replace with your GitHub URL
-theme: jekyll-theme-minimal
 
 # === Optional for icon rendering ===
 plugins:

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: brutalist
 title: Publications
 permalink: /publications/
 ---
