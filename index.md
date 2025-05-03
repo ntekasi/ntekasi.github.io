@@ -24,9 +24,11 @@ title: "Yannis Ntekas"
       <p style="margin-bottom: 20px;"><strong>PhD Candidate, Cornell University</strong><br>
       Spatial RNA-seq · Host-Microbiome · Non-coding RNA</p>
 
-      <p><strong>I work at the intersection of spatial transcriptomics and systems biology, developing technologies that extend the capabilities of spatial RNA sequencing beyond protein-coding transcripts.</strong> Spatial transcriptomics is a transformative approach that preserves the spatial organization of tissues while capturing gene expression—an advancement that holds great promise for enhancing diagnostic biopsies and understanding tissue function at unprecedented resolution.</p>
+      <p><strong>I am building new tools for spatial biology that expand what this technology can capture and reveal.</strong> Spatial transcriptomics is a groundbreaking type of measurement that allows us to map phenotypes of cells in their native spatial location, reconstructing detailed spatial maps of cells—and, increasingly, their intentions. This approach holds great promise to revolutionize our understanding of biology and transform clinical pathology by enabling what is essentially a “biopsy on steroids,” where instead of relying on a few stains, we can extract rich, multilayered molecular information from a single tissue section.</p>
 
-      <p>My research focuses on broadening the molecular scope of this technology to include non-coding RNAs and non-host transcripts, such as those of microbial origin, which are typically underrepresented in standard protocols. By doing so, I aim to unlock new biological insights from both the host and its surrounding microenvironment. Applications of this expanded framework include spatially resolved microbiome mapping—capturing the organization of microbial communities in situ alongside neighboring host cell states—as well as profiling transcriptomic architecture in the reproductive system, where spatial cues are tightly linked to function and development.</p>
+      <p>My work focuses on expanding the capabilities of spatial transcriptomics beyond its current emphasis on protein-coding RNAs. I develop methods that allow the simultaneous spatial mapping of non-host and non-coding RNA molecules, including microbial transcripts and regulatory RNAs that are often missed by standard assays.</p>
+
+      <p>So far, I’ve applied these tools to map the host–microbiome interface—reconstructing spatial abundance of microbes alongside host cell types in the intestine—and to study the transcriptional architecture of reproductive tissues, where spatial cues are key to development and function.</p>
     </div>
   </div>
 </div>
